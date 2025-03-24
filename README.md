@@ -1,7 +1,12 @@
 # Logic Library
 ---------------
  Welcome
- Welcome to the Logic library! Thank you for downloading and actually opening this README!
+ Welcome to the Logic library! 
+To install, just use pip:
+```
+pip install logic
+```
+ 
  Overview
  The Logic library is a python library programmed entirely in python 3, and is designed to allow
  users like you to acces logical operators. Don't worry if you don't know too much about these
