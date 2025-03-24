@@ -41,4 +41,6 @@ pip install logic
  For some more (runnable) examples of both modules, go to logic>Tests>test1, test2, test3.
  Note: Remember that some funtions despend on others in the same module, so remember to
  import the entire module for simplicity.
-Any complaints are accepted at my Github fro this library-CODER-220
+
+ -------
+ Any complaints are accepted 
