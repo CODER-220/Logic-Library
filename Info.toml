@@ -1,0 +1,19 @@
+[project]
+name = "logic CODE__c00ker-BAVI"
+version = "0.1.0"
+authors = [
+  { name="-------", email="-------" },
+]
+description = "A small package with logical circuits"
+readme = "README.pdf"
+requires-python = ">=any"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
