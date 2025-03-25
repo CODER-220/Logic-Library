@@ -2,7 +2,7 @@
 ---------------
  Welcome
  Welcome to the Logic library! 
- To install, download the source code from this repository, and move it to the  correct path, (depends on your IDE), and pip install the path.
+ To install, download the source code from this repository, and move it to the  correct path, (depends on your IDE), and pip install the path of the wheel file.
  
  Overview
  The Logic library is a python library programmed entirely in python 3, and is designed to allow
