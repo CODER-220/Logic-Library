@@ -39,7 +39,7 @@
  my_other = operators.AND("True", False")
  print(my_other.operators.str_operate) #prints output using string operate function
 ```
- For some more (runnable) examples of both modules, go to logic>Tests>test1, test2, test3.
+ For some more (runnable) examples of both modules, go to either test1, test2, test3, or test4.
  Note: Remember that some funtions despend on others in the same module, so remember to
  import the entire module for simplicity.
 
