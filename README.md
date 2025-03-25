@@ -7,7 +7,7 @@
  Overview
  The Logic library is a python library programmed entirely in python 3, and is designed to allow
  users like you to acces logical operators. Don't worry if you don't know too much about these
- operators for we have provided some links to great websites to learn about them (below):
+ operators for I've provided some links to some great websites to learn about them (below):
  >-https://www.geeksforgeeks.org/logic-gates/
 
  >-https://www.geeksforgeeks.org/difference-between-half-adder-and-full-adder/
