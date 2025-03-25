@@ -2,10 +2,7 @@
 ---------------
  Welcome
  Welcome to the Logic library! 
-To install, just use pip:
-```python
-pip install logic
-```
+ To install, download the source code from this repository, and move it to the  correct path, (depends on your IDE).
  
  Overview
  The Logic library is a python library programmed entirely in python 3, and is designed to allow
