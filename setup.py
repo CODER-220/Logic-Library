@@ -8,7 +8,7 @@ setup(
     install_requires=[
     ],
     author='Bavnoor',  
-    author_email='66227383283',
+    author_email=null,
     description='A library for using logical operators.',
     classifiers=[
         'Programming Language :: Python :: 3',
