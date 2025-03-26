@@ -7,7 +7,7 @@ setup(
     packages=find_packages(),
     install_requires=[
     ],
-    author='Bavnoor',  
+    author=null,  
     author_email=null,
     description='A library for using logical operators.',
     classifiers=[
